@@ -3,3 +3,4 @@ openpyxl
 reportlab
 streamlit
 matplotlib
+PyPDF2
